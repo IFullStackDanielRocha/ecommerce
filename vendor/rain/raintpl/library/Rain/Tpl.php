@@ -199,7 +199,7 @@ class Tpl {
         return $parsedTemplateFilepath;
     }
 
-    /**
+    /** 
      * Check if a string has been already compiled
      * @param type $string
      */
